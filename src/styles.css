@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap");
+
+.App {
+  font-family: sans-serif;
+  padding: 3rem 5rem;
+  color: #e7d9b3;
+  font-family: "Montserrat", sans-serif;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  max-width: auto;
+  margin-right: 200px;
+}
+
+.output {
+  margin: 2rem 0rem;
+  padding: 1rem;
+  border: 2px solid #e7d9b3;
+  border-radius: 20px;
+}
+
+.btn-cuisines {
+  padding: 0.5rem 1rem;
+  font-size: 120%;
+  background-color: rgba(255, 144, 89, 0.61);
+  border: 1px solid rgba(255, 145, 89);
+  border-radius: 20px;
+  color: #e7d9b3;
+  margin: 1rem;
+}
+
+h3 {
+  font-weight: 600;
+}
+
+h5 {
+  margin-top: 1rem;
+  color: rgb(253, 188, 155);
+}
