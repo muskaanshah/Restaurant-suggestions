@@ -10,7 +10,7 @@ export default function App() {
         src:
           "https://media-cdn.tripadvisor.com/media/photo-s/06/c9/d9/95/cream-centre.jpg",
         specialities:
-          "All their sizzlers are worth a shit especially the italian one and paneer ka baap sizzler. Along with this Mexican Nachos, Chole Bhature, and the Special Biryani is a must try."
+          "All their sizzlers are worth a shot especially the italian one and paneer ka baap sizzler. Along with this Mexican Nachos, Chole Bhature, and the Special Biryani is a must try."
       },
       {
         name: "Kaidi Kitchen",
